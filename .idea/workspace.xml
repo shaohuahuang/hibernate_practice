@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7dd0b900-0a59-4eae-afb4-bda4d5b56dc3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/app/CustomerService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/app/MessageUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Spring-Customer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/app/JavaTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/app/JunitTestSuite.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/app/TestJunit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/app/TestJunit1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/app/TestJunit2.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mycompany/app/App.class" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/app/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my-app.iml" afterPath="$PROJECT_DIR$/my-app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/app/App.java" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/app/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.mycompany.app.AppTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.mycompany.app.AppTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.mycompany.app.AppTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.mycompany.app.AppTest.txt" />
-    </list>
+    <list default="true" id="7dd0b900-0a59-4eae-afb4-bda4d5b56dc3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -92,18 +60,18 @@
       <file leaf-file-name="App.class" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/target/classes/com/mycompany/app/App.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="270">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="push.sh" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/push.sh">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -152,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/app/App.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/push.sh" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -703,12 +672,12 @@
       <option name="presentableId" value="Default" />
       <updated>1482556176388</updated>
       <workItem from="1482556178124" duration="11813000" />
-      <workItem from="1482658478116" duration="3225000" />
+      <workItem from="1482658478116" duration="3288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15038000" />
+    <option name="totallyTimeSpent" value="15101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1109,18 +1078,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/mycompany/app/App.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/push.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/mycompany/app/App.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding />
         </state>
       </provider>
