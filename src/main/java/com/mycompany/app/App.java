@@ -14,7 +14,7 @@ public class App
     {
         ApplicationContext appContext = new ClassPathXmlApplicationContext(new String[] {"Spring-Customer.xml"});
         
-        CustomerService cust = (CustomerService) appContext.getBean("customerService");
+        CustomerService cust = (CustomerService) appContext.getBean("customerServiceProxy");
         System.out.println("*************************");
         cust.printName();
         System.out.println("*************************");
